@@ -1,4 +1,4 @@
-<h1>Nesse projeto aprendemos:</h1>
+<h1>Conhecimentos adquiridos com o projeto:</h1>
 
 **1. Estrutura de uma Activity no Android**
 
